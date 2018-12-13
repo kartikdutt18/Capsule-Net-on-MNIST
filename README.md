@@ -8,12 +8,16 @@ Now when one of the Godfathers of Deep Learning “Geoffrey Hinton” is releasi
 # Basic Architecture:
 ![498](https://user-images.githubusercontent.com/39593019/49949768-76acbf80-ff1c-11e8-99d1-2a67a2673de9.png)
 
-# Requirements
+# Requirements:
 Python 3
+
 PyTorch
+
 TorchVision
+
 TorchNet
 
-Benchmarks
+# Benchmarks:
+
 Highest accuracy was more than 99% on the 380th epoch. 
 The model may achieve a higher accuracy as shown by the trend of the test accuracy.
