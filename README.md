@@ -19,5 +19,5 @@ TorchNet
 
 # Benchmarks:
 
-Highest accuracy was more than 99% on the 380th epoch. 
-The model may achieve a higher accuracy as shown by the trend of the test accuracy.
+Highest accuracy obtained was more than 99.4% on the 20th epoch. 
+The model will achieve a higher accuracy as shown by the trend of the test accuracy.
