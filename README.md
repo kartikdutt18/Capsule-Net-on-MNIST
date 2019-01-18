@@ -5,6 +5,7 @@
 Capsules introduce a new building block that can be used in deep learning to better model hierarchical relationships inside of internal knowledge representation of a neural network. Intuition behind them is very simple and elegant.
 Sara Sabour, Nicholas Frost and Geoffrey Hinton released a paper titled “Dynamic Routing Between Capsules”.
 Now when one of the Godfathers of Deep Learning “Geoffrey Hinton” is releasing a paper it is bound to be ground breaking.
+
 # Basic Architecture:
 ![498](https://user-images.githubusercontent.com/39593019/49949768-76acbf80-ff1c-11e8-99d1-2a67a2673de9.png)
 
